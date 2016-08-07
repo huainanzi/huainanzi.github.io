@@ -4,6 +4,12 @@
   
     
     <entry>
+      <title><![CDATA[博客介绍]]></title>
+      <url>http://yoursite.com/2016/08/07/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hexo+GithubPages搭建个人博客站点]]></title>
       <url>http://yoursite.com/2016/08/06/hello-world/</url>
       <content type="html"><![CDATA[<p>  这是我开创博客的第一天，博客是我基于Hexo+GithubPages搭建起来的，主题是我采用的Next主题，记录下我搭建的过程，供大家学习参考，如有问题，请留言！！！</p>
